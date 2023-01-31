@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "description": "Приоритет Integer",
+    "priority": "ВЫСОКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 1, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 8:00:00 AM",
+    "author": {
+      "firstname": "Толя",
+      "lastname": "Толин",
+      "position": "ДИРЕКТОР"
+    }
+  },
+  {
+    "id": 2,
+    "description": "Приоритет String",
+    "priority": "НИЗКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 23, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 11:15:00 AM",
+    "author": {
+      "firstname": "Алла",
+      "lastname": "Алова",
+      "position": "БУХГАЛТЕР"
+    }
+  },
+  {
+    "id": 3,
+    "description": "Приоритет Double",
+    "priority": "НИЗКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 11, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 4:45:00 PM",
+    "author": {
+      "firstname": "Миша",
+      "lastname": "Мишин",
+      "position": "ИНЖЕНЕР"
+    }
+  },
+  {
+    "id": 4,
+    "description": "Приоритет Upper String",
+    "priority": "ВЫСОКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Jan 30, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 10:00:00 AM",
+    "author": {
+      "firstname": "Катя",
+      "lastname": "Катина",
+      "position": "СЕКРЕТАРЬ"
+    }
+  },
+  {
+    "id": 5,
+    "description": "Приоритет Priority",
+    "priority": "ВЫСОКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 1, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 5:00:00 PM",
+    "author": {
+      "firstname": "Катя",
+      "lastname": "Катина",
+      "position": "СЕКРЕТАРЬ"
+    }
+  },
+  {
+    "id": 6,
+    "description": "Приоритет другого типа",
+    "priority": "СРЕДНИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 1, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 11:00:00 AM",
+    "author": {
+      "firstname": "Маша",
+      "lastname": "Машова",
+      "position": "ИНЖЕНЕР"
+    }
+  },
+  {
+    "id": 7,
+    "description": "Приоритет name",
+    "priority": "НИЗКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 4, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 8:00:00 AM",
+    "author": {
+      "firstname": "Алла",
+      "lastname": "Алова",
+      "position": "БУХГАЛТЕР"
+    }
+  },
+  {
+    "id": 8,
+    "description": "Приоритет empty String",
+    "priority": "СРЕДНИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 3, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 4, 1970, 5:00:00 AM",
+    "author": {
+      "firstname": "Маша",
+      "lastname": "Машова",
+      "position": "ИНЖЕНЕР"
+    }
+  },
+  {
+    "id": 9,
+    "description": "Приоритет String",
+    "priority": "НИЗКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 2, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 2:25:00 PM",
+    "author": {
+      "firstname": "Миша",
+      "lastname": "Мишин",
+      "position": "ИНЖЕНЕР"
+    }
+  },
+  {
+    "id": 10,
+    "description": "Приоритет Long",
+    "priority": "НИЗКИЙ",
+    "addingData": "Jan 31, 2023, 12:00:00 AM",
+    "addingTime": "Jan 1, 1970, 8:59:00 AM",
+    "deadlineData": "Feb 1, 2023, 12:00:00 AM",
+    "deadlineTime": "Jan 1, 1970, 5:45:00 PM",
+    "author": {
+      "firstname": "Толя",
+      "lastname": "Толин",
+      "position": "ДИРЕКТОР"
+    }
+  }
+]
