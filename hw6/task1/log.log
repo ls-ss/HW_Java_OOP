@@ -1,0 +1,12 @@
+февр. 03, 2023 6:07:51 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Сумма: A= 3.0; B= 4.0; Операция= SUMMARIZE Ответ: 7.0
+февр. 03, 2023 6:08:04 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Разность: A= 2.0; B= 6.0; Операция= DIFFERENCE Ответ: -4.0
+февр. 03, 2023 6:08:09 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Умножение: A= 4.0; B= 5.0; Операция= MULTIPLY Ответ: 20.0
+февр. 03, 2023 6:08:16 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Деление: A= 8.0; B= 2.0; Операция= DIVIDE Ответ: 4.0
+февр. 05, 2023 2:53:59 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Сумма: A= 3.0; B= 4.0; Операция= SUMMARIZE Ответ: 7.0
+февр. 05, 2023 2:55:09 PM hw6.task1.service.impl.SolveImpl solve
+INFO: Умножение: A= 5.0; B= 6.0; Операция= MULTIPLY Ответ: 30.0
